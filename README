@@ -1,0 +1,3 @@
+Desarrollar un registro  para una tienda donde se venden artículos de video juegos.
+para base de datos se utiliza Mongo DB  mongoose que nos facilita las consultas en mongodb
+a continuacion se encontraran una secuencia de los request o los endpoint para que puedan usar la API
